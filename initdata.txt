@@ -1,0 +1,1 @@
+user=%7B%22id%22%3A6471648549%2C%22first_name%22%3A%22E%27phaniel%22%2C%22last_name%22%3A%22%22%2C%22username%22%3A%22ephaniel2%22%2C%22language_code%22%3A%22en%22%2C%22allows_write_to_pm%22%3Atrue%7D&chat_instance=-237190324730158327&chat_type=sender&auth_date=1718595229&hash=e9defed5a97c7eedfc4ad6e61351949be83f1dc8405f1748a513f12ccdabb185
